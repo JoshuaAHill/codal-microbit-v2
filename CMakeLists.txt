@@ -52,6 +52,8 @@ target_link_libraries(
     CMSISDSPSupport
     CMSISDSPTransform
     CMSISDSPCommon
+    CMSISDSPComplexMath
+    CMSISDSPStatistics
     ${LIB_OBJECT_FILES}
     ${LIB_ARCHIVE_FILES}
 )
